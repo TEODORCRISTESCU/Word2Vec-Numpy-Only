@@ -29,8 +29,8 @@ The model is trained on the **text8 dataset**, which is a standard Wikipedia cor
 
 ### Expected results:
 
-Total loss for Epoch 1 is 1395278.70
-Total loss for Epoch 2 is 1242853.92
-Total loss for Epoch 3 is 1194931.81
-Total loss for Epoch 4 is 1161611.48
-Total loss for Epoch 5 is 1130536.63
+- Total loss for Epoch 1 is 1395278.70
+- Total loss for Epoch 2 is 1242853.92
+-Total loss for Epoch 3 is 1194931.81
+- Total loss for Epoch 4 is 1161611.48
+- Total loss for Epoch 5 is 1130536.63
